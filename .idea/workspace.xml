@@ -2,49 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9822b0b4-f10a-481c-a581-2738f34da9eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TestMyProgram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.xsh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate_this.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/automat-visualize.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/cftp.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/ckeygen.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/conch.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/deactivate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/jp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/spiders/ite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/spiders/results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/spiders/results1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/lab10/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/mailmail.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip-3.9.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip3.9.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pydoc.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pyhtmlizer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/scrapy.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/tkconch.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/trial.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/twist.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/twistd.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/wheel-3.9.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/wheel.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.9.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestMyProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestMyProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +33,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SyazLah\PycharmProjects\CF2004V_DA_Ryan_Syazwan\scrapyproject\venv" />
       <recent name="C:\Users\SyazLah\PycharmProjects\CF2004V_13_Ryan\scrapyproject" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Browser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DA_Ryan_Syazwan" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +72,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DA_Ryan_Syazwan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\SyazLah\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,8 +176,13 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Browser" />
+      <item itemvalue="Python.main" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.Browser" />
       </list>
     </recent_temporary>
@@ -258,7 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645438635406</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial Commit">
+      <created>1645438952682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645438952682</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial Commit">
+      <created>1645439043471</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645439043471</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
