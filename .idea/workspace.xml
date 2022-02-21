@@ -2,9 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9822b0b4-f10a-481c-a581-2738f34da9eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brower.py" beforeDir="false" afterPath="$PROJECT_DIR$/Browser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMyProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.xsh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/automat-visualize.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/cftp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/ckeygen.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/conch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/jp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/spiders/ite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/spiders/results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/lab10/spiders/results1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/lab10/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/mailmail.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip-3.9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip3.9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pydoc.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pyhtmlizer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/scrapy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/tkconch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/trial.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/twist.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/twistd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel-3.9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645437828913</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial Commit">
+      <created>1645438635406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645438635406</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
