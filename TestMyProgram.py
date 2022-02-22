@@ -1,11 +1,11 @@
 import unittest
-import main
-from spiders import ite
+import Browser as main
 
 
 class MyTestCase(unittest.TestCase):
     def test_ite(self):
-        newsel = '@src'
+        main.url = 'http://www.ite.edu.sg/'
+
 
 if __name__ == '__main__':
     unittest.main()
